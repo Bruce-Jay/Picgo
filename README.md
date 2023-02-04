@@ -1,2 +1,2 @@
 # Picgo
-repo for blog pics
+repo for picgo pics
